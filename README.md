@@ -27,6 +27,7 @@ This project simulates a cloud-style sales analytics pipeline using Python, PySp
 5. Query outputs with SQL
 
 ## Run Locally
+
 ```bash
 python main.py
 ## PySpark Version
