@@ -29,3 +29,10 @@ This project simulates a cloud-style sales analytics pipeline using Python, PySp
 ## Run Locally
 ```bash
 python main.py
+## PySpark Version
+This project also includes a PySpark-based ETL workflow for scalable processing.
+
+Run it with:
+
+```bash
+python main_spark.py
