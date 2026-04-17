@@ -1,0 +1,5 @@
+pandas
+pyspark
+apache-airflow
+psycopg2-binary
+boto3
